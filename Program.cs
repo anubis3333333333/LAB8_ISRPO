@@ -217,7 +217,7 @@ namespace Lab08
                         Console.WriteLine($"НОД: {Gcd(g1, g2)}, НОК: {Lcm(g1, g2)}");
                         break;
                     case 0:
-                        Console.WriteLine("Выход из программы.");
+                        Console.WriteLine("Выход из программы");
                         break;
                     default:
                         Console.WriteLine("Нет такого пункта");
